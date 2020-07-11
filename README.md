@@ -8,8 +8,9 @@ There will be a link for the product management practice area, where the artifac
 
 ### Technology used
 
-- Each platform or framework should get its own bullet.
-- 
+- Git Hub-Product Management Repo
+- Google Drive 
+-Slack 
 
 
 
@@ -19,7 +20,7 @@ Explain the different ways people can contribute. For example:
 
 
 
-Remember to provide direct links to each channel.
+
 
 
 
@@ -31,13 +32,6 @@ Remember to provide direct links to each channel.
 4. Alternatively, you can move everything from *Installation instructions* through *Testing* to a separate **Contributing.md** file to keep your **ReadMe.md** more succinct.
 
 
-### Working with issues
-
-- Explain how to submit a bug.
-- Explain how to submit a feature request.
-- Explain how to contribute to an existing issue.
-
-To create a new issue, please use the blank issue template (available when you click New Issue).  If you want to create an issue for other projects to use, please create the issue in your own repository and send a slack message to one of your hack night hosts with the link.
 
 
 ### Working with forks and branches
@@ -58,7 +52,8 @@ To create a new issue, please use the blank issue template (available when you c
 
 # Contact info
 
-Include at least one way (or more, if possible) to reach your team with questions or comments.
+Abi Ajala Slack name @Abi 
+Bonnie Slack name @Bonnie 
 
 
 ### Licensing
