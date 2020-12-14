@@ -13,7 +13,7 @@ Product Management Task board will be used to facilitate completion of organizat
 
 - Grab an issue from the [prioritized backlog](https://github.com/hackforla/product-managment/projects/2#column-10573805) on the [Templates and Guides board](https://github.com/hackforla/product-managment/projects/2) and find that asset on your project and document how it was created and how your team is using it.  If there are no issues on the prioritized backlog, then bring that up at the next PM meeting.
 
-- Add a card to the icebox for a template you are looking for, if that card does not already exist.
+- Add a card to the [icebox](https://github.com/hackforla/product-managment/projects/2#column-10573804) for a template you are looking for, if that card does not already exist.
 
 
 
