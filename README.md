@@ -9,7 +9,7 @@ Product Management Task board will be used to facilitate completion of organizat
 - Slack channel is #product-managment 
 
 # How to contribute
-- Join our Product Mangement meeting every other Tuesday at 6pm PST
+- Join our Product Management meeting every other Tuesday at 6pm PST
 
 - Grab an issue from the [prioritized backlog](https://github.com/hackforla/product-managment/projects/2#column-10573805) on the [Templates and Guides board](https://github.com/hackforla/product-managment/projects/2) and find that asset on your project and document how it was created and how your team is using it.  If there are no issues on the prioritized backlog, then bring that up at the next PM meeting.
 
