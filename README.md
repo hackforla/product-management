@@ -6,7 +6,7 @@ Product Management Task board will be used to facilitate completion of organizat
 
 - [GitHub Product Management Board](https://github.com/100Automations/Website/projects/1)
 - [Google Drive](https://drive.google.com/drive/u/1/folders/1lO8k_0Z1UejkuRlNMYlUl2xlqgyBmvrF) 
-- Slack channel is #product-managment 
+- Slack channel is [#product-management](https://hackforla.slack.com/archives/C010LNXH2JY) 
 
 # How to contribute
 - Join our Product Management meeting every other Tuesday at 6pm PST
