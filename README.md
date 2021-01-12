@@ -1,4 +1,4 @@
-# Project title and description
+# Product Management Community of Practice 
 
 Product Management Task board will be used to facilitate completion of organizational goals for the Product Management Team at Hack for LA. This will house communication needs, process discussions for product management and relevant action items for all product managers to contribute back to the common good. This is not a code repository, this is a repository of knowlege. A place for us to gather up effective practices with relevant examples from projects around Hack for LA and beyond.
 
