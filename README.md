@@ -11,6 +11,9 @@ Product Management Task board will be used to facilitate completion of organizat
 # How to contribute
 - Join our Product Management meeting every other Tuesday at 6pm PST
 
+- If you are assigned to a Project Team as a PM, add a comment to this [issue](https://github.com/hackforla/product-management/issues/41) with the name of your project and your name, and github handle, to indicate that you would like to be added to the project repo
+
+
 - Grab an issue from the [prioritized backlog](https://github.com/hackforla/product-managment/projects/2#column-10573805) on the [Templates and Guides board](https://github.com/hackforla/product-managment/projects/2) and find that asset on your project and document how it was created and how your team is using it.  If there are no issues on the prioritized backlog, then bring that up at the next PM meeting.
 
 - Add a card to the [icebox](https://github.com/hackforla/product-managment/projects/2#column-10573804) for a template you are looking for, if that card does not already exist.
