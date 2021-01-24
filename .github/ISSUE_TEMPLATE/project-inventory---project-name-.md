@@ -2,7 +2,7 @@
 name: 'Project Inventory: [Project Name]'
 about: A template to check the list of inventory a project has.
 title: 'Project Inventory: [Project Name]'
-labels: documentation, Project Managment
+labels: Project Managment, documentation
 assignees: ''
 
 ---
@@ -41,6 +41,7 @@ Project Inventory
 - [ ] [Communication Style Guide (including documents, spreadsheets and forms)]()
 - [ ] [User Research Guide/Template]()
 - [ ] [Wireframes Template]()
+- [ ] [Website analytics software setup]()
 
 ### Resources/Instructions
 REPLACE THIS TEXT -If there is a website which has documentation that helps with this issue provide the link(s) here.
