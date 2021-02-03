@@ -12,7 +12,7 @@ Create the project one sheet so it can be shared with stakeholders and funders.
 
 ### Action Items
 - [ ] Check to confirm project does not already have a one sheet
-- [ ] Make a copy of the one sheet and store in the product management google drive/one sheet revisions
+- [ ] Make a copy of the one sheet template and store in the product management google drive/one sheet revisions
 - [ ] Review one sheet and check off items on the checklist to see what it might be missing.
 - [ ] Setup a meeting with the PM to go over the project to confirm what information on the sheet is up to date and what needs revision.
 
