@@ -4,9 +4,9 @@ Product Management Task board will be used to facilitate completion of organizat
 
 ### Technology used
 
-- [GitHub Product Management Board](https://github.com/100Automations/Website/projects/1)
+- [GitHub Product Management Board](https://github.com/hackforla/product-management/projects/1)
 - [Kanban Methodology](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit?usp=sharing)
-- [Google Drive](https://drive.google.com/drive/u/1/folders/1lO8k_0Z1UejkuRlNMYlUl2xlqgyBmvrF) 
+- [Google Drive](https://drive.google.com/drive/folders/1lO8k_0Z1UejkuRlNMYlUl2xlqgyBmvrF?usp=sharing) 
 - Slack channel is [#product-management](https://hackforla.slack.com/archives/C010LNXH2JY) 
 
 # How to contribute
