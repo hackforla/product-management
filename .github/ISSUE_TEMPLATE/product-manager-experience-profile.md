@@ -2,7 +2,7 @@
 name: Product Manager Experience Profile
 about: Track a product manager's Hack for LA experience
 title: 'Experience Profile: [Your Name]'
-labels: ''
+labels: 'feature: experience profile'
 assignees: ''
 
 ---
@@ -28,6 +28,6 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] [User Persona/Journeys]()
 - [ ] [OKRs and WBS]()
 - [ ] [Roadmap]()
-- [ ] [Presentation Deck]
+- [ ] [Presentation Deck]()
 
 ### Resources/Instructions
