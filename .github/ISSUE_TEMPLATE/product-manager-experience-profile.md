@@ -30,5 +30,6 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] [Product Roadmap]()
 - [ ] [Ecosystem map of stakeholders and touchpoints]()
 - [ ] [Presentation Deck]()
+- [ ] [Template/Guide Creation]()
 
 ### Resources/Instructions
