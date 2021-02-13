@@ -14,6 +14,8 @@ Product Management Task board will be used to facilitate completion of organizat
 
 - Join our Product Management Community of Practice meeting every Tuesday at 6pm PST and Friday at 10 am via [Zoom](https://us02web.zoom.us/j/81435536017?pwd=eHNtNm5SVnpickxqUHRlbFJtS2tJUT09).
 
+- Check out the [open product management roles](https://github.com/hackforla/product-management/projects/8) we have available.
+
 - If you are assigned to a Project Team as a PM, add a comment to this [issue](https://github.com/hackforla/product-management/issues/41) with the name of your project and your name, and github handle, to indicate that you would like to be added to the project repo
 
 
