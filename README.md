@@ -10,6 +10,8 @@ Product Management Task board will be used to facilitate completion of organizat
 - Slack channel is [#product-management](https://hackforla.slack.com/archives/C010LNXH2JY) 
 
 # How to contribute
+- Read our [Wiki](https://github.com/hackforla/product-management/wiki) to get an overview of the Product Management immersion experience here at Hack for LA and find out how to get started.
+
 - Join our Product Management Community of Practice meeting every Tuesday at 6pm PST and Friday at 10 am via [Zoom](https://us02web.zoom.us/j/81435536017?pwd=eHNtNm5SVnpickxqUHRlbFJtS2tJUT09).
 
 - If you are assigned to a Project Team as a PM, add a comment to this [issue](https://github.com/hackforla/product-management/issues/41) with the name of your project and your name, and github handle, to indicate that you would like to be added to the project repo
