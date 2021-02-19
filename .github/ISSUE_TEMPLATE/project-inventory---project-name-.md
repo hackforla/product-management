@@ -15,7 +15,7 @@ We need to make an inventory for this project so we understand what assistance t
 - [ ] Mark off the items when you find it and include the links where available
 - [ ] Provide comments on what you find in the issue and also highlight when they have a great example so we can use it for the organization
 
-Project Inventory
+**Product**
 - [ ] [Readme]()
 - [ ] [Wiki]()
 - [ ] [Google Drive]()
@@ -27,17 +27,28 @@ Project Inventory
 - [ ] Project Email
    - [ ] projectname@hackforla.org
    - [ ] projectname@gmail.com (You will need this for setting up some applications like MIro that use rate limiting. Do not send emails using this address) 
-- [ ] [Figma]()
-- [ ] [Miro]()
 - [ ] [Team Roster]()
 - [ ] [Product One Sheet]()
-- [ ] [Competitive Analysis]()
-- [ ] [Presentation Deck]()
 - [ ] [Recruitment Form]()
-- [ ] [User Persona/Journeys]()
 - [ ] [OKRs and WBS]()
+- [ ] [Roadmap]()
 - [ ] [Storypoints]()
 - [ ] [Meeting Minutes Template]()
+
+**Marketing**
+   - [ ] [Marketing Objectives]()
+      - [ ] Create new issue using this template: [Define Marketing Objectives for [INSERT PROJECT NAME]](https://github.com/hackforla/marketing/issues/new?assignees=&labels=Level%3A+Learning%2C+Skill%3A+Brand+Strategy%2C+Skill%3A+Digital+Marketing%2C+Skill%3A+Media+Strategy%2C+documentation&template=define-marketing-objectives-for--insert-project-name-.md&title=Define+Marketing+Objectives+for+%5BINSERT+PROJECT+NAME%5D+project)
+      - [ ] Copy the link for the issue into the parentheses above
+   - [ ] [Collect Marketing Assets]()
+      - [ ] Create new issue using this template: [Collect Marketing Assets for [INSERT PROJECT NAME]](https://github.com/hackforla/marketing/issues/new?assignees=&labels=feature%3A+marketing+inventory+checklist&template=collect-marketing-assets-for--insert-project-name-.md&title=Collect+Marketing+Assets+for+%5BINSERT+PROJECT+NAME%5D)
+      - [ ] Copy the link for the issue into the parentheses above
+   
+**UI/UX**
+- [ ] [Figma]()
+- [ ] [Miro]()
+- [ ] [Presentation Deck]()
+- [ ] [Competitive Analysis]()
+- [ ] [User Persona/Journeys]()
 - [ ] [Communication Style Guide (including documents, spreadsheets and forms)]()
 - [ ] [User Research Guide/Template]()
 - [ ] [Wireframes Template]()
