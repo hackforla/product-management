@@ -32,3 +32,4 @@ Checklist
 
 ### Resources/Instructions
 Check issue #3 for sample one sheets
+[One Sheet Template](https://docs.google.com/document/d/1BCNkA3cEox1qp2803r1uDAtffEszQ2P34ZDHo4dKM0Y/edit?usp=sharing)
