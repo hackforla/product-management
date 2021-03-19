@@ -26,4 +26,5 @@ We need to create a guide to making [name of item] so that [purpose of the item]
    - [ ] Include link to template under resources if you add it as a template in .github
 
 ### Resources
-Update issue #128 with the name of item you are working
+- Refer to #123 for how to write a guide and the guide template
+- Update issue #128 with the name of item you are working
