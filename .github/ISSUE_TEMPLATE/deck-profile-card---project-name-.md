@@ -2,7 +2,7 @@
 name: 'Deck Profile Card: [Project Name]'
 about: Track deck profile card
 title: 'Deck Profile Card: [Project Name]'
-labels: documentation
+labels: 'documentation, feature: deck profile card'
 assignees: ''
 
 ---
