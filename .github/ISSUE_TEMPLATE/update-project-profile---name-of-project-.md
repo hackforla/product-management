@@ -18,6 +18,7 @@ Update the following fields for your project. These updated fields will then be 
 - [ ] Update any links that are not currently displayed on the site (do you have a demo site?)
 - [ ] Hero image to be displayed on Project Home Page at 1500 x 700 px
 - [ ] Any resources for a Getting Started link (either a link to a wiki or readme)
+- [ ] ### Update all current team members with their roles
 
 ### Resources/Instructions
 See the hero image on the [hackforla.org](https://www.hackforla.org/) homepage

@@ -2,7 +2,7 @@
 name: Create project card for [project name]
 about: Gather information to add this project to HackforLA's website
 title: ''
-labels: 'documentation, good first issue, question, feature: project profile card'
+labels: 'documentation, feature: project profile card, good first issue, question'
 assignees: ''
 
 ---
