@@ -9,16 +9,28 @@ assignees: ''
 ---
 
 ### Overview
-Update the following fields for your project. These updated fields will then be updated to be shown on the website.
+As a product manager of [INSERT PROJECT NAME] I want my project's details to be up to date on the HackforLA website
+
+### Project card
+_insert url of their card here before sending - their cards can be found in this folder: https://github.com/hackforla/website/tree/gh-pages/_projects_
 
 ### Action Items
-- [ ] Update wording of anything currently on the project card (see [hackforla.org](https://www.hackforla.org/))
-- [ ] Provide information on which Tools your team is using for the project (Ex: figma, Balsamiq, photoshop, etc.) . This is different than programming languages
-- [ ] Update "Looking For" Section
-- [ ] Update any links that are not currently displayed on the site (do you have a demo site?)
-- [ ] Hero image to be displayed on Project Home Page at 1500 x 700 px
-- [ ] Any resources for a Getting Started link (either a link to a wiki or readme)
-- [ ] ### Update all current team members with their roles
 
-### Resources/Instructions
-See the hero image on the [hackforla.org](https://www.hackforla.org/) homepage
+- [ ] [INSERT TEAM NAME HERE] Current Team Members
+   - [ ] Please check off everything that is ok the way that it is, and if not, please provide the updated information in the comments below:
+      - [ ] title
+      - [ ] description
+      - [ ] image
+      - [ ] leadership
+      - [ ] links
+         - [ ] Github
+         - [ ] Slack
+         - [ ] Test Site
+         - [ ] Demo Site
+         - [ ] Site
+      - [ ] looking
+      - [ ] technologies
+      - [ ] location
+      - [ ] partner
+      - [ ] tools
+      - [ ] status
