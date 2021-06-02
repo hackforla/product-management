@@ -21,7 +21,7 @@ _insert url of their card here before sending - their cards can be found in this
       - [ ] title
       - [ ] description
       - [ ] image
-      - [ ] leadership
+      - [ ] team members
       - [ ] links
          - [ ] Github
          - [ ] Slack
