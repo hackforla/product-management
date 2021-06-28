@@ -12,7 +12,7 @@ assignees: ''
 We need to create a guide to making [name of item] so that [purpose of the item]
 
 ### Action Items
-- [ ] Gather examples of how other projects have done, adding each example as a link in the resources section
+- [ ] Gather examples of how other Hack for LA projects have done, adding each example as a link in the resources section
    - [ ] Once done, remove the "TG: Gather Examples" label and add the "TG: Draft Template" label
 - [ ] Create a draft template, either in markdown format in this issue or a google doc in the [product management google drive](https://drive.google.com/drive/folders/1lO8k_0Z1UejkuRlNMYlUl2xlqgyBmvrF?usp=sharing)
     - [ ] Once done, remove the "TG: Draft Template" label and add the "TG: Create Guide" label
