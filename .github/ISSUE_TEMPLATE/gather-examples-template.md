@@ -11,7 +11,7 @@ assignees: ''
 Hack for LA Communities of practice (Product-Management and [add any others related]) need to know if your project has a [Insert Topic of Guide] (or doesn't).
 
 ### Product Manager Action Items
-- [ ] Review the existing examples of [name of guide topic] (under resources below)
+- [ ] Review the list of projects (under resources below)
    - [ ] If your project does not have a link or the status is incorrect, please add a comment below using this template.  
 ```
 - Name of Project:
