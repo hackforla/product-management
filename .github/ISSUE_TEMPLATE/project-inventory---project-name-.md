@@ -2,7 +2,7 @@
 name: 'Project Inventory: [Project Name]'
 about: A template to check the list of inventory a project has.
 title: 'Project Inventory: [Project Name]'
-labels: 'Project Managment, documentation, feature: project inventory'
+labels: 'documentation, feature: project inventory, Project Managment'
 assignees: ''
 
 ---

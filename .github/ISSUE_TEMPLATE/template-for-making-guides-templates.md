@@ -3,7 +3,7 @@ name: Template for Making Guides/Templates
 about: Use this template if you want to make a guide/template for a product management
   item
 title: 'Create a Guide/Template: [name of item] for your project'
-labels: 'TG: Gather Examples, documentation, feature: guide creation'
+labels: 'documentation, feature: guide creation, TG: Gather Examples'
 assignees: ''
 
 ---
