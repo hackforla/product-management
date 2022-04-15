@@ -8,12 +8,18 @@ assignees: ''
 ---
 
 ### Overview
-Hack for LA Communities of practice (Product-Management and [add any others related]) need to know if your project has a [Insert Topic of Guide] guide and if so what the URL is.
+Hack for LA Communities of practice (Product-Management and [add any others related]) need to know if your project has a [Insert Topic of Guide] guide (or doesn't) and if so what the URL is.
 
 ### Product Manager Action Items
-- [ ] If your project has not created [name of guide topic] please list your project below under "Projects that have no [name of guide topic]" below
 - [ ] Review the existing examples of [name of guide topic] (under resources below)
-   - [ ] If your [name of guide topic] are not listed, please add a link to yours and indicate if it's a final version or a Work In Progress (WIP)
+   - [ ] If your project does not have a link or the status is incorrect  [insert topic of guide] Please add a comment below using this template.  
+```
+- Name of Project:
+- Status of [insert topic of guide]:
+- Link to [insert topic of guide] if it exists:
+- Links to issues related to [insert topic of guide]:
+- If this is the first time you are hearing about this project requirement:
+```
 
 ### Resources
 [Hack for LA logo](https://github.com/hackforla/product-managment/projects/2#card-51755660)
