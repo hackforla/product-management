@@ -12,7 +12,7 @@ Hack for LA Communities of practice (Product-Management and [add any others rela
 
 ### Product Manager Action Items
 - [ ] Review the existing examples of [name of guide topic] (under resources below)
-   - [ ] If your project does not have a link or the status is incorrect  [insert topic of guide] Please add a comment below using this template.  
+   - [ ] If your project does not have a link or the status is incorrect, please add a comment below using this template.  
 ```
 - Name of Project:
 - Status of [insert topic of guide]:
