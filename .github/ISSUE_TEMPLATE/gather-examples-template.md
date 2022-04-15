@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### Overview
-Hack for LA Communities of practice (Product-Management and [add any others related]) need to know if your project has a [Insert Topic of Guide] guide (or doesn't) and if so what the URL is.
+Hack for LA Communities of practice (Product-Management and [add any others related]) need to know if your project has a [Insert Topic of Guide] (or doesn't).
 
 ### Product Manager Action Items
 - [ ] Review the existing examples of [name of guide topic] (under resources below)
@@ -18,7 +18,7 @@ Hack for LA Communities of practice (Product-Management and [add any others rela
 - Status of [insert topic of guide]:
 - Link to [insert topic of guide] if it exists:
 - Links to issues related to [insert topic of guide]:
-- If this is the first time you are hearing about this project requirement:
+- If this is the first time you are hearing about this project requirement (yes/no):
 ```
 
 ### Resources
