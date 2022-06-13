@@ -14,7 +14,7 @@ We need to create a guide to making [name of item] so that [purpose of the item]
 ### Action Items
 - [ ] Gather examples of how other Hack for LA projects have done, adding each example as a link in the resources section. It is really important to annotate as you go in this issue, so that if you have to stop working on the issue, its already up to date with your findings.
    - [ ] Once done, remove the "TG: Gather Examples" label and add the "TG: Draft Template" label
-- [ ] Create a draft template, either in markdown format in this issue or a google doc in the [product management google drive](https://drive.google.com/drive/folders/1lO8k_0Z1UejkuRlNMYlUl2xlqgyBmvrF?usp=sharing)
+- [ ] Create a draft template, either in markdown format in this issue or a google doc in the [product management google drive>Product Management Guides](https://drive.google.com/drive/folders/1u9YOTWevHwEiHP8-r8d00rlqOn6q8e-5?usp=sharing)
     - [ ] Once done, remove the "TG: Draft Template" label and add the "TG: Create Guide" label
 - [ ] Create a guide on how to use the template 
    - [ ] Once done, remove the "TG: Create Guide" label and add the "TG: Review Guide" label
